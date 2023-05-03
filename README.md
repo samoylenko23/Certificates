@@ -1,14 +1,24 @@
 **Сертификаты о прохождении курсов:**
 
-1. Machine Learning
-2. Data Science с Глебом Михайловым
-3. Введение в искусственные нейронные сети.
-4. Samsung Computer Vision
-5. Специальные архитектуры нейронных сетей RNN, CNN, GAN + NLP
-6. SQL для Анализа данных
-7. Курс SQL
-8. Курс по оконным функциям SQL
-9. Введение в интернет-вещей
+<code>1. [Machine Learning](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-machine-learning.pdf)
+</code>
+<code>2. [Data Science с Глебом Михайловым](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-data-science-gleb.pdf)
+</code>
+<code>3. [Введение в искусственные нейронные сети](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-NN.pdf)
+</code>
+<code>4. [Samsung AI Computer Vision](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-samsung-CV.pdf)
+</code>
+<code>5. [Специальные архитектуры нейронных сетей RNN, CNN, GAN + NLP](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-spetial-RNN-CNN-NLP.pdf)
+</code>
+<code>6. [SQL для Анализа данных](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-SQL-data-analysis-for-gleb-mikhaylov.pdf)
+</code>
+<code>7. [Курс SQL](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-sql-all.pdf)
+</code>
+<code>8. [Курс по оконным функциям SQL](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-windows-finctions.pdf)
+</code>
+<code>9. [Введение в интернет-вещей](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-nti-center.pdf)
+</code>
+
 
 
 **Книги:**
