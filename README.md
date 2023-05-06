@@ -18,6 +18,8 @@
 </code>
 <code>9. [Введение в интернет-вещей](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-nti-center.pdf)
 </code>
+<code>10. [Курс по система GIT](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-GIT.pdf)
+</code>
 
 
 
