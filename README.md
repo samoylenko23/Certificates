@@ -20,6 +20,8 @@
 </code>
 <code>10. [Курс по система GIT](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-GIT.pdf)
 </code>
+<code>11. [Курс по Объектно-ориентированному программированию](https://github.com/berserkr7/Certificates/blob/main/stepik-certificate-OOP.pdf)
+</code>
 
 
 
